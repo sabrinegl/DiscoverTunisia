@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_menu_action_settings"
+        android:title="@string/action_user_account_title" />
+    <item
+        android:id="@+id/main_menu_action_add_friend"
+        android:title="@string/action_search_friends_title" />
+
+    <item
+        android:id="@+id/main_menu_action_logout"
+        android:title="@string/action_logout_title" />
+</menu>

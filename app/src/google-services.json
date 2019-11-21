@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081184918657",
+    "firebase_url": "https://discovertunisia2.firebaseio.com",
+    "project_id": "discovertunisia2",
+    "storage_bucket": "discovertunisia2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081184918657:android:31a0542771088acf",
+        "android_client_info": {
+          "package_name": "com.example.sabrine.discovertunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081184918657-8cp9s7fj65vc4o4rasa50826uo3gkuks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabrine.discovertunisia",
+            "certificate_hash": "a1cdc173faeb502fc7749328565ddca66d97edf7"
+          }
+        },
+        {
+          "client_id": "1081184918657-7tk7i1i97lfipl38si6aripmpo0gco8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcrcoklOEXAt29dTfj8jZdVxx11V7Bsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081184918657-7tk7i1i97lfipl38si6aripmpo0gco8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

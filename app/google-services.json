@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614161863118",
+    "firebase_url": "https://visualmemo-31622723.firebaseio.com",
+    "project_id": "visualmemo-31622723",
+    "storage_bucket": "visualmemo-31622723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614161863118:android:31a0542771088acf",
+        "android_client_info": {
+          "package_name": "com.example.sabrine.discovertunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614161863118-svm48a6lof4e1j46k9i8vjborah5qgcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZLZfT6_k9EFMXmMfMU9UO58LP8KscEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Discover Tunisia</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="identifiant">Identifiant</string>
+    <string name="mail">Mail</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="action_logout_title">Déconnexion</string>
+
+    <string name="cr_er_un_compte">Créer un compte</string>
+    <string name="email">Email</string>
+    <string name="cr_er_un_nouveau_compte">Créer un nouveau compte</string>
+    <string name="besoin_de_compte">Besoin de compte ?</string>
+    <string name="bienvenue_discovertunisia">Bienvenue à DiscoverTunisia</string>
+    <string name="action_search_friends_title">Recherche Des Amis</string>
+    <string name="action_user_account_title">Mon Profile</string>
+    <string name="vous_avez_d_ja_un_compte">Vous avez déja un compte</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">default_status</string>
+    <string name="hiiii_p">Hiiii :p</string>
+    <string name="changer_image">CHANGER IMAGE</string>
+    <string name="changer_status">CHANGER STATUS</string>
+    <string name="nom_de_profil">NOM DE PROFIL</string>
+    <string name="enregistrer_les_changements">Enregistrer les changements</string>
+    <string name="votre_statut">Votre Statut</string>
+    <string name="changer_statut">CHANGER STATUT</string>
+    <string name="decline_friend_request">DECLINE FRIEND REQUEST</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="display_name">Display Name</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Gallerie">Gallerie</string>
+    <string name="total_amis">Total amis</string>
+    <string name="status_de_l_utilisateur">Status de l\'utilisateur</string>
+    <string name="afficher_le_nom">Afficher le nom</string>
+    <string name="envoyer_une_demande">Envoyer une demande</string>
+    <string name="supprimer_la_demande_d_ajout">Supprimer la demande d\'ajout</string>
+    <string name="activity_chat_bot_title">Chat Bot</string>
+    <string name="chat_edit_text_hint">Type a Message</string>
+    <string name="message_from_me">Moi</string>
+
+    <string name="friend_menu_title">Options</string>
+    <string-array name="friend_menu_options">
+        <item>Open Profile</item>
+        <item>Send message</item>
+    </string-array>
+
+</resources>
